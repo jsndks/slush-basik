@@ -1,6 +1,6 @@
 /*
- * slush-slush-basik
- * https://github.com/jsndks/slush-slush-basik
+ * slush-basik
+ * https://github.com/jsndks/slush-basik
  *
  * Copyright (c) 2017, Jason Dicks
  * Licensed under the MIT license.

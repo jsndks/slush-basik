@@ -1,14 +1,14 @@
-# Slush Slush-basik [![Build Status](https://secure.travis-ci.org/jsndks/slush-slush-basik.png?branch=master)](https://travis-ci.org/jsndks/slush-slush-basik) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-basik.png)](http://badges.enytc.com/for/npm/slush-slush-basik)
+# Slush-basik [![Build Status](https://secure.travis-ci.org/jsndks/slush-basik.png?branch=master)](https://travis-ci.org/jsndks/slush-basik) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-basik.png)](http://badges.enytc.com/for/npm/slush-basik)
 
 > A basic static project setup
 
 
 ## Getting Started
 
-Install `slush-slush-basik` globally:
+Install `slush-basik` globally:
 
 ```bash
-$ npm install -g slush-slush-basik
+$ npm install -g slush-basik
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-basik
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-basik
+$ mkdir my-slush-basik
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-basik && slush slush-basik
+$ cd my-slush-basik && slush basik
 ```
 
 ## Getting To Know Slush
@@ -35,12 +35,12 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/jsndks/slush-slush-basik/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/jsndks/slush-basik/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/jsndks/slush-slush-basik/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/jsndks/slush-basik/issues).
 
-## License 
+## License
 
 The MIT License
 
